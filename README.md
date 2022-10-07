@@ -1,4 +1,5 @@
 # All-Algorithms
+
 >This repository contains a curated list of all the important algorithms, and patterns you need to know as a developer. 
 
 ### Topics to be covered
